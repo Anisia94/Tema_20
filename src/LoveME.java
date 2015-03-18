@@ -6,5 +6,6 @@ public class LoveME {
     }
     static  void main(String[] args){
         System.out.println("Love");
+        System.out.println("Hate you!!!");
     }
 }
